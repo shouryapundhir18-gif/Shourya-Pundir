@@ -1,0 +1,5 @@
+{
+  "name": "StyleGenie",
+  "description": "AI-powered fashion assistant providing personalized outfit suggestions based on occasion and weather.",
+  "requestFramePermissions": ["geolocation"]
+}
